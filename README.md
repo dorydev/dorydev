@@ -1,10 +1,13 @@
 ## Hi there 👋 ##
 
+I'm a french mathematics & physic student ! I love to acquire a lot of new knowledge :)
+
 🔭 Currently working on my research project (Theoretical physics & maths)
 
 **LinkedIn**: https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/ \
 **Academia.edu**: https://independent.academia.edu/bellingdoriane
 
+--------------------------------------------------------------------------------------------------------------
 <div>
   <h2>All tools & Programming languages</h2>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
