@@ -3,7 +3,7 @@
 🔭 Currently working on my research project (Theoretical physics & maths)
 
 **LinkedIn**: https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/ \
-**Academia.edu**: https://independent.academia.edu/bellingdoriane \
+**Academia.edu**: https://independent.academia.edu/bellingdoriane
 
 <div>
   <h2>Programming Languages</h2>
