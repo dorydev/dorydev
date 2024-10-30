@@ -2,8 +2,8 @@
 
 🔭 Currently working on my research project (Theoretical physics & maths)
 
-**LinkedIn**: https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/ 
-**Academia.edu**: https://independent.academia.edu/bellingdoriane
+**LinkedIn**: https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/ \n
+**Academia.edu**: https://independent.academia.edu/bellingdoriane \n
 
 <div>
   <h2>Programming Languages</h2>
@@ -15,20 +15,20 @@
 </div>
 
 <div>
-<h2>Lib & other</h2>
+<h2>Tools</h2>
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs" alt="vs" width="40" height="40"/>&nbsp;
+</div>
+
+<div>
+<h2>Lib & other</h2>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="opengl" alt="opengl" width="40" height="40"/>&nbsp;
-</div>
-
-<div>
-<h2>Tools</h2>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs" alt="vs" width="40" height="40"/>&nbsp;
 </div>
 
 <div>
