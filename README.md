@@ -3,6 +3,17 @@
 I'm a french mathematics & physic student ! I love to acquire a lot of new knowledge :)
 
 🔭 Currently working on my research project (Theoretical physics & maths)
+⚡ Code project I'm working on:
+  - Gromp: simple monitoring discord-bot for my raspberry pi server.
+  - LinuxFromScratch: simple kernel, will be upgraded later.
+  - HNVCore : OpenGL-based physics & maths visualiser
+🌱 Learning:
+  - OS architecture (x86_64, ARM, ...)
+  - Raspberry pi Pico W
+  - Raspberry pi 4
+  - OpenGL
+  - Assembly x86_64 & C/C++
+(Also French law, German & Russian for the knowledge 😜)
 
 **LinkedIn**: https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/ \
 **Academia.edu**: https://independent.academia.edu/bellingdoriane
