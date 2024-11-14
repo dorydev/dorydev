@@ -15,7 +15,8 @@ I'm a french mathematics & physic student ! I love to acquire a lot of new knowl
   - Raspberry pi 4
   - OpenGL
   - Assembly x86_64 & C/C++
-\(Also French law, German & Russian for the knowledge 😜)
+    
+(Also French law, German & Russian for the knowledge 😜)
 
 **LinkedIn**: https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/ \
 **Academia.edu**: https://independent.academia.edu/bellingdoriane
