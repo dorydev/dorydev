@@ -4,22 +4,23 @@ My name is Doriane, I'm a french mathematics & physic student ! I love to acquir
 
 🔭 Currently working on my research project (Theoretical physics & maths) 
 
-⚡ Code project I'm working on:
+⚡ **Code project I'm working on**:
   - Physic simulator in Python 🐍
   - Many Latex projects 😳
   - HNVCore : OpenGL-based physics & maths visualiser
 
-🌱 Learning:
+🌱 **Learning**:
   - OS architecture (x86_64, ARM, ...)
   - Raspberry pi 4 & Pico W 
   - Python lib for 3D, graphs & data visualisation
   - OpenGL
-  - French law, German & Russian for the knowledge 😜)
+  - French law, German & Russian for the knowledge 😜
 
-📫 How to reach me:
+📫 **How to reach me**:
 
-- **LinkedIn**: https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/ \
-- **Academia.edu**: https://independent.academia.edu/bellingdoriane
+- *LinkedIn*: https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/ \
+- *Academia.edu*: https://independent.academia.edu/bellingdoriane
+- *Discord*: **0x646f7269616e65** or **dory6416**
 
 --------------------------------------------------------------------------------------------------------------
 <div>
