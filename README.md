@@ -2,7 +2,7 @@
 
 My name is Doriane, I'm a french mathematics & physic student ! I love to acquire a lot of new knowledge :)
 
-🔭 # Currently working on my research project (Theoretical physics & maths) #
+🔭 Currently working on my research project (Theoretical physics & maths) 
 
 ⚡ Code project I'm working on:
   - Physic simulator in Python 🐍
