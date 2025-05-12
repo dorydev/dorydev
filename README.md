@@ -1,10 +1,9 @@
 ## Hi there 👋 ##
 
-My name is Doriane, I'm a french mathematics & physic student ! I love to acquire a lot of new knowledge :)
+🔭 My name is Doriane, I'm a french mathematics & physic student ! I love to acquire a lot of new knowledge :)
 
-🔭 Currently working on sooo many projects...
 
-⚡ **Code project :**:
+⚡ **Code project I'm working on :**:
   - ArchLinux installer in Python 🐍
   - Many Latex projects 😳
   - LinuxFromScratch: simple kernel, with keyboard driver, ARM8 compatible
