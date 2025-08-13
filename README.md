@@ -29,17 +29,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows" alt="wind" width="40" height="40"/>&nbsp;
 </div>
 
---------------------------------------------------------------------------------------------------------------
 <div>
   <h2>All tools & Programming languages</h2>
 
-
+<p>Plateforms</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="archlinux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="pi" alt="pi" width="40" height="40"/>&nbsp;
 
-
+<p>Programming languages</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
@@ -48,14 +47,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
 
-
+<p>Writting tools</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
 
+<p>Applications</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs" alt="vs" width="40" height="40"/>&nbsp;
 
-
+<p>Frameworks</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
