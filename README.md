@@ -20,12 +20,21 @@
 
 
 --------------------------------------------------------------------------------------------------------------
+
+<div>
+  <h1>
+    Operating System I use:
+  </h1>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macos" alt="mac" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows" alt="wind" width="40" height="40"/>&nbsp;
+</div>
+
+--------------------------------------------------------------------------------------------------------------
 <div>
   <h2>All tools & Programming languages</h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="archlinux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="pi" alt="pi" width="40" height="40"/>&nbsp;
 
 
