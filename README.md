@@ -15,7 +15,8 @@
 
 📫 **How to reach me**:
 
-- *LinkedIn*: https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/ \
+- **LinkedIn**: https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/ \
+- **Discord**: https://discord.gg/.....
 
 
 --------------------------------------------------------------------------------------------------------------
