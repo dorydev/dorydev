@@ -8,9 +8,9 @@
   - NoClick : Notion & ClickUp client for tasks automatisation
 
 🌱 **Learning**:
-  - Algorithm
+  - Algorithm, ML, IA
   - Cybersecurity basics
-  - Applied mathematics
+  - Applied & fondamental mathematics
   - German & Russian
 
 📫 **How to reach me**:
