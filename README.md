@@ -19,7 +19,7 @@ I love to acquire a lot of new knowledge :)
 --> Low-level & front-end dev / scripting  (self-taught)
 
 **Contact :**  
-• `LinkedIn` : [Doriane Belling-Lefebvre](https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/)  
+• `LinkedIn` : [Doriane BL](https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/)  
 • `Discord` : dory6416  
 • `Site/Portfolio` : coming soon...  
 
