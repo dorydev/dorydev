@@ -15,7 +15,7 @@
 
 ### Who Am I ?
 My name is **Doriane**, I'm a french sciences student at Sorbonne Université !  
-I love to acquire a lot of new knowledge :)  (I'm also a regular climber)
+I love to acquire a lot of new knowledge :)  (I'm also a regular climber) \
 --> Low-level & front-end dev / scripting  (self-taught)
 
 **Contact :**  
