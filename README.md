@@ -9,39 +9,44 @@
 
 <!-- ====== QUI JE SUIS (TEXTE + IMAGE) ====== -->
 
+<table>
   <tr>
     <td width="60%" valign="top">
 
-![Tools](https://img.shields.io/badge/Who_Am_I-333333?style=for-the-badge&)
+### Who Am I ?
+My name is **Doriane**, I'm a french sciences student at Sorbonne Université !  
+I love to acquire a lot of new knowledge :)  
+--> Low-level & front-end dev / scripting  (self-taught)
 
-My name is Doriane, I'm a french sciences student at Sorbonne Université ! I love to acquire a lot of new knowledge :) \
---> Low-level & front-end dev / scripting
-  
-**Contact :**\
-•`LinkedIn` : *https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/* \
-•`Discord` : *dory6416* \
-•`Site/Portfolio` : *coming soon...*\
+**Contact :**  
+• `LinkedIn` : [Doriane Belling-Lefebvre](https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/)  
+• `Discord` : dory6416  
+• `Site/Portfolio` : coming soon...  
 
 🌱 **Learning**:
+- Algorithm, ML, IA  
+- Cybersecurity basics  
+- Applied & fundamental mathematics  
+- German & Russian  
 
-- Algorithm, ML, IA
-- Cybersecurity basics
-- Applied & fondamental mathematics
-- German & Russian
+⚡ **Code projects I'm working on**  
+- NoClick - Notion & ClickUp client for tasks automatisation  
+- Mu - Simple AI for document summary (Python)  
+- ClipBoard Manager - Screenshot manager for MacOs  
 
-**⚡ Code project I'm working on**
-- NoClick - Notion & ClickUp client for tasks automatisation
-- Mu - Simple AI for document summary (Python)
-- ClipBoard Manager - Screenshot manager for MacOs
- 
+    </td>
+    <td width="40%" valign="top">
+
+![dorydev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorydev&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![dorydev's Stats](https://github-readme-stats.vercel.app/api?username=dorydev&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![dorydev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dorydev&theme=dark&hide_border=false)
+
   </tr>
+</table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="./github-user-contribution.svg" />
 </picture>
----
 
 ### Langages & tools
 
@@ -91,11 +96,4 @@ My name is Doriane, I'm a french sciences student at Sorbonne Université ! I lo
 ![Raspberry Pi Pico](https://img.shields.io/badge/Pico-009A49)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
-
-## 📈 Stats & Streak
-
-<!-- Remplace TonPseudoGitHub -->
-![dorydev's Stats](https://github-readme-stats.vercel.app/api?username=dorydev&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![dorydev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dorydev&theme=dark&hide_border=false)
-![dorydev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorydev&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
