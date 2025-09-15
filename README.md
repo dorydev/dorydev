@@ -15,7 +15,7 @@
 
 ### Who Am I ?
 My name is **Doriane**, I'm a french sciences student at Sorbonne Université !  
-I love to acquire a lot of new knowledge :)  
+I love to acquire a lot of new knowledge :)  (I'm also a regular climber)
 --> Low-level & front-end dev / scripting  (self-taught)
 
 **Contact :**  
@@ -27,7 +27,7 @@ I love to acquire a lot of new knowledge :)
 - Algorithm, ML, IA  
 - Cybersecurity basics  
 - Applied & fundamental mathematics  
-- German & Russian  
+- Photography
 
 ⚡ **Code projects I'm working on**  
 - NoClick - Notion & ClickUp client for tasks automatisation  
