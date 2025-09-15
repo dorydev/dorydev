@@ -31,7 +31,8 @@ I love to acquire a lot of new knowledge :)  (I'm also a regular climber) \
 
 ⚡ **Code projects I'm working on**  
 - NoClick - Notion & ClickUp client for tasks automatisation  
-- Mu - Simple AI for document summary (Python) 
+- Mu - Simple AI for document summary (Python)
+- LinuxFromScratch - Mini kernel (AMD 64 based)
 
     </td>
     <td width="40%" valign="top">
