@@ -1,82 +1,101 @@
-## Hi there 👋 ##
+<!-- ====== BANNIÈRE ====== -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1547136274-62a38d6754ab?q=80&w=1989&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+       alt="banner" 
+       width="100%" />
+</p>
 
-🔭 My name is Doriane, I'm a french mathematics student ! I love to acquire a lot of new knowledge :)
+<h1 align="center">Hi there 👋</h1>
 
+<!-- ====== QUI JE SUIS (TEXTE + IMAGE) ====== -->
 
-⚡ **Code project I'm working on :**:
-  - ArchLinux installer in Python 🐍
-  - NoClick : Notion & ClickUp client for tasks automatisation
+  <tr>
+    <td width="60%" valign="top">
+
+![Tools](https://img.shields.io/badge/Who_Am_I-333333?style=for-the-badge&)
+
+My name is Doriane, I'm a french sciences student at Sorbonne Université ! I love to acquire a lot of new knowledge :) \
+--> Low-level & front-end dev / scripting
+  
+**Contact :**\
+•`LinkedIn` : *https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/* \
+•`Discord` : *dory6416* \
+•`Site/Portfolio` : *coming soon...*\
 
 🌱 **Learning**:
-  - Algorithm, ML, IA
-  - Cybersecurity basics
-  - Applied & fondamental mathematics
-  - German & Russian
 
-📫 **How to reach me**:
+- Algorithm, ML, IA
+- Cybersecurity basics
+- Applied & fondamental mathematics
+- German & Russian
 
-- **LinkedIn**: https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/ \
-- **Discord**: https://discord.gg/.....
+**⚡ Code project I'm working on**
+- NoClick - Notion & ClickUp client for tasks automatisation
+- Mu - Simple AI for document summary (Python)
+- ClipBoard Manager - Screenshot manager for MacOs
+ 
+  </tr>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+---
+
+### Langages & tools
+
+<!-- Badges (shields.io + simpleicons). Remplace/retire selon tes goûts. -->
+
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-222222?logo=githubcopilot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Anytype](https://img.shields.io/badge/Anytype-111111)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white)
+![Raspbian](https://img.shields.io/badge/Raspbian-A22846?logo=raspberrypi&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![ASM](https://img.shields.io/badge/ASM-6E4C13)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFCC00)
+![Dash (Python)](https://img.shields.io/badge/Dash-000000)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000)
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+![Raspberry Pi Pico](https://img.shields.io/badge/Pico-009A49)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
 
---------------------------------------------------------------------------------------------------------------
+## 📈 Stats & Streak
 
-<div>
-  <h2>
-    Operating System I use:
-  </h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macos" alt="mac" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows" alt="wind" width="40" height="40"/>&nbsp;
-</div>
+<!-- Remplace TonPseudoGitHub -->
+![dorydev's Stats](https://github-readme-stats.vercel.app/api?username=dorydev&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![dorydev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dorydev&theme=dark&hide_border=false)
+![dorydev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorydev&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-<div>
-  <h2>All tools & Programming languages</h2>
-
-<p>Plateforms</p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="archlinux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="pi" alt="pi" width="40" height="40"/>&nbsp;
-
-<p>Programming languages</p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
-
-<p>Writting tools</p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
-
-<p>Applications</p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs" alt="vs" width="40" height="40"/>&nbsp;
-
-<p>Frameworks</p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="opengl" alt="opengl" width="40" height="40"/>&nbsp;
-</div>
-
---------------------------------------------------------------------------------------------------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorydev)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**dorydev/dorydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
