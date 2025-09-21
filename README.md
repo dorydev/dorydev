@@ -19,9 +19,11 @@ I love to acquire a lot of new knowledge :)  (I'm also a regular climber) \
 --> Low-level & front-end dev / scripting  (self-taught)
 
 **Contact :**  
-• `LinkedIn` : [Doriane BL](https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/)  
-• `Discord` : dory6416  
+• `LinkedIn` : [Doriane BL](https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/)
+• `HackTheBox`: ***0xdory***
+• `Discord` : ***dory6416***  
 • `Site/Portfolio` : coming soon...  
+
 
 🌱 **Learning**:
 - Algorithm, ML, IA  
