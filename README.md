@@ -20,9 +20,7 @@ I love to acquire a lot of new knowledge :)  (I'm also a regular climber) \
 
 **Contact :**  
 • `LinkedIn` : [Doriane BL](https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/) \
-• `HackTheBox`: *0xdory* \
 • `Discord` : *dory6416* \
-• `Site/Portfolio` : coming soon...
 
 
 🌱 **Learning**:
@@ -30,10 +28,6 @@ I love to acquire a lot of new knowledge :)  (I'm also a regular climber) \
 - Cybersecurity basics  
 - Applied & fundamental mathematics  
 - Photography
-
-⚡ **Code projects I'm working on**  
-- Mu - Simple AI for document summary (Python)
-- LinuxFromScratch - Mini kernel (AMD 64 based)
 
     </td>
     <td width="40%" valign="top">
