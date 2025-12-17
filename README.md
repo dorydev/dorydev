@@ -16,18 +16,10 @@
 ### Who Am I ?
 My name is **Doriane**, I'm a french sciences student at Sorbonne Université !  
 I love to acquire a lot of new knowledge :)  (I'm also a regular climber) \
---> Low-level & front-end dev / scripting  (self-taught)
-
 **Contact :**  
 • `LinkedIn` : [Doriane BL](https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/) \
 • `Discord` : *dory6416* \
 
-
-🌱 **Learning**:
-- Algorithm, ML, IA  
-- Cybersecurity basics  
-- Applied & fundamental mathematics  
-- Photography
 
     </td>
     <td width="40%" valign="top">
