@@ -21,9 +21,6 @@ I love to acquire a lot of new knowledge :)  (I'm also a regular climber) \
 • `Discord` : *dory6416* \
 
 
-    </td>
-    <td width="40%" valign="top">
-
 ![dorydev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorydev&theme=dark&show_icons=true&hide_border=false&layout=compact)
 ![dorydev's Stats](https://github-readme-stats.vercel.app/api?username=dorydev&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![dorydev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dorydev&theme=dark&hide_border=false)
