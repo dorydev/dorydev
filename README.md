@@ -37,9 +37,6 @@ I love to acquire a lot of new knowledge :)  (I'm also a regular climber) \
 <!-- Badges (shields.io + simpleicons). Remplace/retire selon tes goûts. -->
 
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM%20Studio-222222?logo=githubcopilot&logoColor=white)
@@ -72,12 +69,10 @@ I love to acquire a lot of new knowledge :)  (I'm also a regular climber) \
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000)
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
 ![Raspberry Pi Pico](https://img.shields.io/badge/Pico-009A49)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
 
