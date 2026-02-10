@@ -15,6 +15,8 @@ I enjoy building things from scratch and acquire new knowledge :)  \
 - Gravity simulator with OpenGL3.3 (HNVCore)
 - Ranking & RP discord bot
 
+-> Currently learning electronics with ESP32 and Raspberrypi Pico.
+
 **Contact :**  
 • `LinkedIn` : [Doriane BL](https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/) \
 • `Discord` : dory6416 
