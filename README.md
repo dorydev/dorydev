@@ -1,7 +1,4 @@
 
-<h1 align="center">Hi there 👋</h1>
-
-<!-- ====== QUI JE SUIS (TEXTE + IMAGE) ====== -->
 
 <table>
   <tr>
