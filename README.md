@@ -12,7 +12,6 @@ I enjoy building things from scratch and acquire new knowledge :)  \
 
 **Projects I'm workin'n on :**
 - Open source bulk sending mail app for macOS and Linux (Maily)
-- Gravity simulator with OpenGL3.3 (HNVCore)
 - Ranking & RP discord bot
 
 -> Currently learning electronics with ESP32 and Raspberrypi Pico.
