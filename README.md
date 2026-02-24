@@ -16,10 +16,6 @@ I enjoy building things from scratch and acquire new knowledge :)  \
 
 -> Currently learning electronics with ESP32 and Raspberrypi Pico.
 
-**Contact :**  
-• `LinkedIn` : [Doriane BL](https://www.linkedin.com/in/doriane-belling-lefebvre-179a12293/) \
-• `Discord` : dory6416 
-
 
 ![dorydev's Stats](https://github-readme-stats.vercel.app/api?username=dorydev&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![dorydev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorydev&theme=dark&show_icons=true&hide_border=false&layout=compact)
