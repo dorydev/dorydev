@@ -10,12 +10,6 @@ I enjoy building things from scratch and acquire new knowledge :)  \
 (I'm also a regular climber)
 
 
-**Projects I'm workin'n on :**
-- Open source bulk sending mail app for macOS and Linux (Maily)
-- Ranking & RP discord bot
-
--> Currently learning electronics with ESP32 and Raspberrypi Pico.
-
 
 ![dorydev's Stats](https://github-readme-stats.vercel.app/api?username=dorydev&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![dorydev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorydev&theme=dark&show_icons=true&hide_border=false&layout=compact)
