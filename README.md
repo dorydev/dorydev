@@ -3,13 +3,11 @@
 <table>
   <tr>
     <td width="60%" valign="top">
+Hey, 
 
-### Who Am I ?
-I'm a french maths student at Sorbonne Université !  
-I enjoy building things from scratch and acquire new knowledge :)  \
-(I'm also a regular climber)
-
-
+I'm Doriane, a french mathematics student with experience in web development, embedded systems and automation. \
+Passionate about physics and electronics, I enjoy experimenting, solving complex problems & building things from scratch. \
+I also enjoy climbing & cycling !
 
 ![dorydev's Stats](https://github-readme-stats.vercel.app/api?username=dorydev&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![dorydev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorydev&theme=dark&show_icons=true&hide_border=false&layout=compact)
