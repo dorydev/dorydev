@@ -45,6 +45,3 @@
 ![JSON](https://img.shields.io/badge/JSON-000000)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
 
----
-
-![description](https://raw.githubusercontent.com/dorydev/dorydev/main/github-user-contribution.svg)
