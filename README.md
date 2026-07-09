@@ -18,7 +18,6 @@
 
 languages/
 tools/
-domains/
 
 ╭─ ~/skills
 ╰─❯ cat languages.txt
