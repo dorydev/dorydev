@@ -29,11 +29,13 @@ TypeScript
 
 ╭─ ~/skills
 ╰─❯ cat tools.txt
-
-Node.js
-Express
-SQLite
-MySQL
-MongoDB
+{
+  "tools": [
+    "pandas, numpy, matplotlib",
+    "react, svelte, Next, tailwindcss",
+    "openGL",
+    "MongoDB, SQLite, MySQL, MariaDB"
+  ]
+}
 
 ```
