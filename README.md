@@ -23,18 +23,17 @@ tools/
 ╰─❯ cat languages.txt
 
 Python
-C
-C++
+C/C++
 TypeScript
 
 ╭─ ~/skills
 ╰─❯ cat tools.txt
 {
   "tools": [
-    "pandas, numpy, matplotlib",
+    "pandas, numpy, matplotlib, tkinter, scipy",
     "react, svelte, Next, tailwindcss",
     "openGL",
-    "MongoDB, SQLite, MySQL, MariaDB"
+    "MongoDB, SQLite, MySQL"
   ]
 }
 
