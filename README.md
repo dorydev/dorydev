@@ -2,8 +2,7 @@
 ╭─ ~ doriane@macos ─────────────────────────────────────────────── 14:38:51
 ╰─❯ cat profile.json
 {
-  "name": "Doriane",
-  "description": "Maths student at Sorbonne University",
+  "description": "Maths student",
   "interests": [
     "full-stack development",
     "reverse engineering",
